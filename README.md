@@ -1,3 +1,3 @@
-## Hi there 👋
-- 🎮 I’m an aspiring self-taught game developer!
-- 👇 Check out my current project below!
+Hi there 👋
+- 🎮 I’m a self-taught solo game developer and pixel art enthusiast!
+- 👇 Check out my projects below!
